@@ -40,4 +40,77 @@ body{
     background-color: rgb(55, 71, 158);
 }
 
-.copa2 
+.copa2 img
+{
+border: 2px solid rgb(194, 194, 99); 
+}
+
+.copa3
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;      
+    justify-content: space-between; 
+    gap: 30px;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border: 3px solid rgb(218, 203, 138);
+    background-color: rgb(55, 71, 158);
+}
+
+.copa3 img
+{
+    border: 2px solid rgb(194, 194, 99); 
+}
+
+.copa4
+{
+  display: flex;
+    flex-direction: row;
+    align-items: center;      
+    justify-content: space-between; 
+    gap: 30px;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border: 3px solid rgb(218, 203, 138);
+    background-color: rgb(55, 71, 158);  
+}
+.copa4 img
+{
+       border: 2px solid rgb(194, 194, 99); 
+}
+
+.copa5
+{
+      display: flex;
+    flex-direction: row;
+    align-items: center;      
+    justify-content: space-between; 
+    gap: 30px;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border: 3px solid rgb(218, 203, 138);
+    background-color: rgb(55, 71, 158);  
+}
+.copa5 img
+{
+       border: 2px solid rgb(194, 194, 99); 
+}
+
+.copa6
+{ 
+      display: flex;
+    flex-direction: row;
+    align-items: center;      
+    justify-content: space-between; 
+    gap: 30px;
+    padding: 20px 40px;
+    margin-top: 20px;
+    border: 3px solid rgb(218, 203, 138);
+    background-color: rgb(55, 71, 158);  
+}
+
+.copa6 img
+{
+    border:  2px solid rgb(194, 194, 99) 
+}
